@@ -1,0 +1,87 @@
+.cabecalho {
+	text-align: center
+}
+
+.clicavel {
+	cursor: pointer;
+	margin-top: 25px;
+}
+
+.entrada-apelido {
+	border: none;
+	text-align: center
+}
+
+.tabela {
+	margin: 0px 25px;
+}
+
+.celula-tabela {
+	width:100px;
+	height: 100px
+}
+
+.tabela-0-0 {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.tabela-0-1 {
+	border-bottom: 1px solid black;
+}
+
+.tabela-0-2 {
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.tabela-1-0 {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.tabela-1-1 {
+	border-bottom: 1px solid black;
+}
+
+.tabela-1-2 {
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.tabela-2-0 {
+	border-right: 1px solid black;
+}
+
+.tabela-2-1 {
+	border: none;
+}
+
+.tabela-2-2 {
+	border-left: 1px solid black;
+}
+
+.img-jogador {
+	-webkit-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+}
+
+.informativo {
+	display: none;
+	text-align: center;
+}
+
+.pagina-inicial {
+	width: 100%;
+}
+
+.pagina-jogo {
+	display: none;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.btn-reiniciar-jogo {
+	display: none;
+	margin-top: 30px;
+}
